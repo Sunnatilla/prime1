@@ -1,0 +1,53 @@
+body{
+    background-image: url("../img/img05.jpg");
+    background-repeat: repeat;
+}
+
+
+img{
+    padding-left: 10px;
+    width: 18px;
+    height: 18px;
+}
+
+#title{
+     margin: auto;
+     font-size: 20px;
+     text-align: center;
+     padding-top: 10px;
+}
+
+table{
+    margin: auto;
+    border: 1px solid #CDCCCD;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+
+.subtitle{
+    background: #858585;
+    padding:5px;
+    width:120px;
+    font-size: 13px;
+}
+
+.request{
+    background: #CAC9CA;
+    padding:5px;
+    width:120px;
+    font-size: 13px;
+}
+
+.request_form{
+    background: #E0DEE0;
+    padding:5px;
+    width: 250px;
+    font-size: 13px;
+}
+
+.response{
+    background: #E0DEE0;
+    padding:5px;
+    width: 100px;
+    font-size: 13px;
+}
