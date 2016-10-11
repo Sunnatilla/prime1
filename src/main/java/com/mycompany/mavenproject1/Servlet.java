@@ -23,6 +23,8 @@ public class Servlet extends HttpServlet {
             double CR_OWN_SUM;
             double CR_MONTHES;
             double CR_FEE_RATE;
+            
+            int test = 0;
     /**
      * Processes requests for both HTTP <code>GET</code> and <code>POST</code>
      * methods.
